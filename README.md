@@ -1,6 +1,6 @@
 # onur.dev
 
-<img src="onurdev.png" alt="onur.dev — Onur Şuyalçınkaya" style="border-radius: 12px; border: 1px solid #e5e7eb" />
+<img src="onurdev.png" alt="onur.dev — Christopher Celaya" style="border-radius: 12px; border: 1px solid #e5e7eb" />
 
 <br>
 <br>
