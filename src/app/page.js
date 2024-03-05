@@ -21,7 +21,7 @@ export default async function Home() {
 
   return (
     <ScrollArea className="flex flex-col" hasScrollTitle>
-      <FloatingHeader scrollTitle="Onur Şuyalçınkaya" />
+      <FloatingHeader scrollTitle="Christopher Celaya" />
       <div className="content-wrapper">
         <div className="content">
           <PageTitle title="Home" className="lg:hidden" />
