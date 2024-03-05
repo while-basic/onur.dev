@@ -1,15 +1,3 @@
-# onur.dev
-
-<img src="onurdev.png" alt="onur.dev — Christopher Celaya" style="border-radius: 12px; border: 1px solid #e5e7eb" />
-
-<br>
-<br>
-
-My personal website has evolved over the years — from a simple static HTML page, to `Create React App`, to `GatsbyJS`,
-then to a combination of `Next.js`, `Chakra UI` and `MDX`, and finally to a combination of `Next.js`, `Tailwind CSS` and
-`Contentful`. It serves as an app-like-web platform for my writings, highlighting my journey, showcasing my bookmarks,
-and more.
-
 ## Overview
 
 - `/` - Home page.
@@ -42,15 +30,3 @@ Create a `.env` file similar to [`.env.example`](https://github.com/suyalcinkaya
 - [Raindrop](https://raindrop.io)
 - [Supabase](https://supabase.com)
 - [Vercel](https://vercel.com)
-
-## Repo Activity
-
-![Alt](https://repobeats.axiom.co/api/embed/2d43636ebc156829d3e99c6f8c2b68d5aa6ebf93.svg "Repobeats analytics image")
-
-## License
-
-1. Feel free to take inspiration from this code.
-2. Avoid directly copying it, please.
-3. Crediting the author is appreciated.
-
-No complicated licensing. Be kind and help others learn.
